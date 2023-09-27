@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Emdadul Hoque Tanvir</h1>
 <h3 align="center">A passionate python developer from Bangladesh</h3>
 
-"Welcome to my GitHub profile! I'm currently on a journey to become a "Python Developer" expert and I'm excited to share my progress with you. While I have a basic knowledge of data science, I'm currently learning the fundamentals of machine learning and deep learning. I'm always looking for ways to apply my knowledge and build cool projects. So, feel free to take a look at my repositories, ask me questions, or even collaborate with me on something. Let's learn and grow together!"
+"Welcome to my GitHub profile! I'm currently on a journey to become a "Python Developer" expert and I'm excited to share my progress with you. While I have a basic knowledge of data science, I'm currently learning the fundamentals of Python learning and deep learning. I'm always looking for ways to apply my knowledge and build cool projects. So, feel free to take a look at my repositories, ask me questions, or even collaborate with me on something. Let's learn and grow together!"
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="max-width: 100%;">
 
