@@ -1,6 +1,7 @@
 ![banner2](https://github.com/user-attachments/assets/4d2c1378-394c-4623-b1e5-88f28c207ec1)
 <h1 align="center">Hi 👋, I'm Md Emdadul Hoque</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer From Bangladesh</h3>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=tanvirtopsecret&icon=0&color=13)](https://visitcount.itsvg.in)
 
@@ -27,6 +28,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanvirtopsecret&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=tanvirtopsecret&icon=0&color=13)](https://visitcount.itsvg.in)
